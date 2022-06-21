@@ -1797,6 +1797,27 @@ input, select, textarea {
 			vertical-align: middle;
 			width: 70%;
 		}			
+
+		/* p {  */
+			/* font-size:16px;  */
+			/* color:#538b01;  */
+			/* font-weight:bold;  */
+			/* font-style:italic; */
+		/* } */
+
+		.date {
+			color: #ff0000;
+		}
+
+		.season { 
+			color: #8ebebc;
+			font-weight: 400;
+		}
+
+		.bold {
+			font-weight:400;
+		}
+
 /* List */
 
 	ul {
